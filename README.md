@@ -1,13 +1,27 @@
-# 👋 Hi, I'm @Ashish-Johnson
+# 👋 Hi, I'm Ashish Johnson
 
-### 👀 I’m passionate about machine learning and data anlytics, with a strong background in data analytics and decision analytics. I'm also a singer-songwriter and love exploring the fusion of music and technology.
+### 📊 Data Analyst | SQL | Python | Power BI | PostgreSQL
 
-### 🌱 I’m currently enhancing my skills in Python, R, and machine learning, and diving into the creative aspects of music production.
+I'm a Data Analyst with **1.5+ years of international experience** and an **MSc in Data and Decision Analytics from the University of Southampton**.
 
-### 💞️ I’m looking to collaborate on projects that combine my interests in data science and music, whether it's creating algorithms for music generation or analyzing trends in music data.
+I work with **SQL, Python, Power BI, and Excel** to analyse data, build dashboards, identify trends, and translate complex datasets into actionable business insights.
 
-### 📫 How to reach me: Feel free to shoot me an email at ashishjohnson.professional@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ashishjohnson/).
+## 🚀 Featured Projects
 
-### 😄 Pronouns: He/Him
+- 🛒 **E-Commerce Performance Analytics** — End-to-end analysis of **99K orders and $16M revenue** using PostgreSQL, Python, and Power BI, covering customer retention, CLV, revenue, product, and operational analytics.
 
-### ⚡ Fun fact: Besides my tech and music pursuits, I love to read non-fiction and explore new places, seeking inspiration in the beauty and stories of different cultures!
+- 🧠 **NLP & Demographic Prediction** — Analysed **4M+ social media records** using Python, NLP, and machine learning, achieving **90% feature-extraction accuracy**.
+
+- 📺 **Netflix Content Performance Analytics** — Analysed **3,005 titles** using PostgreSQL, SQL, and Power BI across genres, ratings, countries, release trends, and content performance.
+
+## 🛠️ Tech Stack
+
+**SQL | PostgreSQL | Python | Pandas | Power BI | DAX | Excel | Tableau | Machine Learning**
+
+## 🎵 Beyond Data
+
+I'm also trained in **Indian classical music** and enjoy singing and playing keyboard.
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ashishjohnson/) | 📧 ashishjohnson.professional@gmail.com
