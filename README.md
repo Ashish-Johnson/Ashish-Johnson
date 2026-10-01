@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | SQL | Python | Power BI | PostgreSQL
 
-I'm a Data Analyst with **1.5+ years of international experience** and an **MSc in Data and Decision Analytics from the University of Southampton**.
+I'm a Data Analyst with **2+ years of international experience** and an **MSc in Data and Decision Analytics from the University of Southampton**.
 
 I work with **SQL, Python, Power BI, and Excel** to analyse data, build dashboards, identify trends, and translate complex datasets into actionable business insights.
 
